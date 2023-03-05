@@ -1,0 +1,35 @@
+body {
+	background-image: url(https://img.freepik.com/free-photo/blue-abstract-gradient-wave-wallpaper_53876-108364.jpg?size=626&ext=jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: black;
+	opacity: 0.9;
+}
+
+#activeUsers {
+	position: relative;
+	top: 0px;
+	color: #5e5c64;
+}
+
+#archivedUsers {
+	position: relative;
+	top: 0px;
+	color: #5e5c64;
+}
+
+table {
+	margin: 25px 0;
+	font-size: 0.4cm;
+	min-width: 200px;
+	border-radius: 5px 5px 0 0;
+	overflow: hidden;
+}
+
+button {
+	background-color: #aa9603;
+	border-radius: 5px;
+	border: 2px;
+	padding: 5px;
+	color: black;
+}
